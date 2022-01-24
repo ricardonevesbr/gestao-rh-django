@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # APPS da aplicação criada
     'empresas',
+    'funcionarios',
 ]
 
 MIDDLEWARE = [
