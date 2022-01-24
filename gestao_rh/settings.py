@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     # APPS da aplicação criada
     'empresas',
     'funcionarios',
+    'departamentos',
+    'documentos',
+    'registro_hora_extra',
 ]
 
 MIDDLEWARE = [
